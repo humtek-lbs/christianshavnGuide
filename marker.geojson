@@ -4,7 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "url": "http://www.ruc.dk",
         "title": "Torvegade",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/torvegade.html",
         "draggable": "false",
@@ -23,7 +22,6 @@
       "type": "Feature",
       "properties": {
         "title": "Amagergade",
-        "url": "http://www.ruc.dk",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/amagergade.html",
         "draggable": "false",
         "fill": "green",
