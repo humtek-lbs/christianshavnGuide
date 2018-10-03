@@ -173,7 +173,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "description": "",
+        "title": "Rute"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
