@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Torvegade",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/torvegade.html",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591088300000024,
+          55.6722626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Amagergade",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/amagergade.html",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.592601899999977,
+          55.6707465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sofiebadet",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/sofiebadet.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.590970200000015,
+          55.6710486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Sofiegården",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/sofiegården.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.590061128139496,
+          55.67151937175717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Cirkelbroen",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/cirkelbroen.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.583749890327454,
+          55.672411793147226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Christians Kirke",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/christianskirke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587510347366333,
+          55.67268707834936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Lagkagehuset",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/lagkagehuset.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.591675817966461,
+          55.67246624531891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Vor Frelsers Kirke",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/vorfrelsereskirke.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59407103061676,
+          55.672771781098824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Christiania",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/christiania.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59618729352951,
+          55.67367627402441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bogbinderi",
+        "description": "https://humtek-lbs.github.io/christianshavnGuide/bogbinderen.html",
+        "draggable": "false",
+        "fill": "grey",
+        "visible": "True"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.587660551071167,
+          55.67019734062589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "",
+        "title": "Rute"
+      },
