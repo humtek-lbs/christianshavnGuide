@@ -7,7 +7,7 @@
         "title": "Torvegade",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/torvegade.html",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True"
       },
       "geometry": {
@@ -24,7 +24,7 @@
         "title": "Amagergade",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/amagergade.html",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True"
       },
       "geometry": {
@@ -40,7 +40,7 @@
       "properties": {
         "title": "Sofiebadet",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/sofiebadet.html"
       },
@@ -57,7 +57,7 @@
       "properties": {
         "title": "Sofiegården",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/sofiegården.html"
       },
@@ -74,7 +74,7 @@
       "properties": {
         "title": "Bogbinder Klara K",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/bogbinderen.html"
       },
@@ -91,7 +91,7 @@
       "properties": {
         "title": "Cirkelbroen",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/cirkelbroen.html"
       },
@@ -108,7 +108,7 @@
       "properties": {
         "title": "Christians Kirke",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/christianskirke"
       },
@@ -125,7 +125,7 @@
       "properties": {
         "title": "Lagkagehuset",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/lagkagehuset.html"
       },
@@ -142,7 +142,7 @@
       "properties": {
         "title": "Vor Frelsers Kirke",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/vorfrelsereskirke.html"
       },
@@ -159,7 +159,7 @@
       "properties": {
         "title": "Christiania",
         "draggable": "false",
-        "fill": "green",
+        "fill": "grey",
         "visible": "True",
         "description": "https://humtek-lbs.github.io/christianshavnGuide/christiania.html"
       },
